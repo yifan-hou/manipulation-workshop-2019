@@ -64,7 +64,29 @@ A list will be availableon before the workshop.
 
 Time | Speaker | Organization
 ------------ | ------------- | -------------
- 1 | 2 | 3
+9:00-9:15 | Opening |
+9:15-9:40 | Pieter Abbeel | UC Berkeley, USA
+9:40-10:05 | Kensuke Harada | Osaka Univ., JAPAN
+10:05-10:30 | Tao Wang | Dorabot Inc., CHINA
+10:30-11:00 | Coffee break |
+11:00-11:25 | Maximo Roa | DLR, GERMANY
+11:25-11:50 | Alberto Rodriguez | MIT, USA
+11:50-12:15 | Miao Li | Cobot Inc., CHINA
+12:15-13:00 | Open talks | Open for application (10min each)
+13:00-14:00 | Lunch break |
+14:00-14:25 | Sidd Srinivasa | Univ. Washington, USA
+14:25-14:50 | I-Ming Chen | NTU, SINGAPORE
+14:50-15:15 | Oliver Kroemer | CMU, USA
+15:15-15:40 | Rosen Diankov | Mujin Inc, Japan
+15:40 – 16:10 | Coffee break |
+16:10-16:35 | Ken Goldberg | UC Berkeley, USA
+16:35-17:00 | Russ Tedrake | MIT/Toyota Research Inst., USA
+17:00-17:25 | Peter Yu | XYZ Robotics Inc., USA
+17:25-18:25 | Discussion |
+18:30 | End |
+
+
+
 
 # Organizers
 
