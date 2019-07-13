@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+## Introduction
+We are seeing a growing need of dexterity in robotic manipulation beyond grasping. Such dexterity is usually motivated by a creative use of contacts, where these contacts can come from robot hands, arms, or any objects and fixtures in the environment. An intelligent robot can manipulate an object or its own body by exploiting the geometric and force constraints offered through contacts. Such skillful use of contact interactions could  be crucial for realizing dexterous, reactive and robust robotic manipulation as well as mobile legged locomotion (self-manipulation).
 
-You can use the [editor on GitHub](https://github.com/yifan-hou/manipulation-workshop-2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+While highly desired, such contact-rich manipulation comes with its own challenges -- from noisy sensors to computationally demanding planning and control frameworks. While the recent research have proposed efficient algorithms and solutions for dexterous and robust manipulation, the industrial applications are seldom seen. This workshop aims to address and hopefully bridge this gap by inviting leading researchers from academia to discuss the recent advances in the field and industry-experts to share their experiences and needs from the contact-rich robotic manipulation in industry. We hope this workshop can encourage discussions about possible transfers between the academic results and industrial applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Topics of interest
+- Non-prehensile Manipulation
+- Manipulation through External Contacts
+- In-hand Manipulation
+- Multi-modal Manipulation Planning
+- Grasp planning, Motion planning, and Task Planning for Manipulators
+- Model/Policy Learning for Manipulation through Contacts
+- Whole-body Manipulation
+- Locomotion/Self-manipulation considering Contacts and Gravitational Constraints
 
-### Markdown
+## Call for Open Talks
+In this workshop, we have a one-hour open talk session. Application is open to both academia and industry. Selected presenters will talk about their work during the open talk session.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Format
+Each talk will last ten minutes, including both the talk and Q&A.
 
-```markdown
-Syntax highlighted code block
+### How to apply
+Please send an email to ____ with title "Application for open talk".
+Please include the following information in your email:
+- Title and abstract of your talk;
+- Brief self-introduction. (< 100 words)
 
-# Header 1
-## Header 2
-### Header 3
+Please apply early, as the positions are limited.
 
-- Bulleted
-- List
+### List of open talks
+A list will be availableon before the workshop.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Invited Speakers
+(Alphabetical order)
 
-[Link](url) and ![Image](src)
-```
+**Pieter Abbeel**, UC Berkeley/Covariant.ai, [website](https://people.eecs.berkeley.edu/~pabbeel/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**I-Ming Chen**, Nanyang Technological University, [website](https://www.ntu.edu.sg/home/michen/)
 
-### Jekyll Themes
+**Rosen Diankov**, MUJIN Inc., [website](http://www.programmingvision.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yifan-hou/manipulation-workshop-2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Ken Goldberg**, UC Berkeley, [website](https://goldberg.berkeley.edu/)
 
-### Support or Contact
+**Kensuke Harada**, Osaka University, [website](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Oliver Kroemer**, Carnegie Mellon University, [website](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/)
+
+**Miao Li**, Wuhan University/Cobot Technology Co., [website](https://miaoli.github.io/)
+
+**Maximo Roa**, DLR German Aerospace Center, [website](https://rmc.dlr.de/rm/en/staff/maximo.roa/)
+
+**Alberto Rodriguez**, Massachusetts Institute of Technology, [website](http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU)
+
+**Siddhartha Srinivasa**, University of Washington, [website](https://goodrobot.ai/)
+
+**Russ Tedrake**, Massachusetts Institute of Technology/Toyota Research Institute, [website](http://groups.csail.mit.edu/locomotion/russt.html)
+
+**Tao Wang**, Dorabot Inc., [website](https://dorabot.com/)
+
+**Peter Kuan-Ting Yu**, XYZ Robotics Inc., [website](https://www.xyzrobotics.ai/)
+
+## Program (Tentative)
+
+Time | Speaker | Organization
+------------ | ------------- | -------------
+ 1 | 2 | 3
+
+# Organizers
+
+**Main Organizer**
+- [Yifan Hou](http://www.cs.cmu.edu/~yifanh/), Ph.D. Student, Carnegie Mellon University, yifanh@cmu.edu
+- [Weiwei Wan](https://sites.google.com/site/weiweilab/), Assoc. Professor, Osaka University, wan@sys.es.osaka-u.ac.jp
+- [Mehmet Dogar](https://engineering.leeds.ac.uk/staff/743/dr_mehmet_dogar), Ass. Professor, University of Leeds, m.r.dogar@leeds.ac.uk
+- [Jurgen Leitner](https://staff.qut.edu.au/staff/j.leitner), Postdoc, Queensland University of Technology, j.leitner@qut.edu.au
+
+**Co-organizers**
+- [Nikhil Chavan Dafle](https://nikhilcd.mit.edu/), Ph.D. candidate, MIT, nikhilcd@mit.edu
+- [François Hogan](https://www.linkedin.com/in/francois-hogan-2b4025b6), Ph.D. candidate, MIT, fhogan@mit.edu
