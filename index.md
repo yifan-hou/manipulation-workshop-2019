@@ -64,7 +64,7 @@ A list will be availableon before the workshop.
 
 Time | Speaker | Organization
 ------------ | ------------- | -------------
-9:00-9:15 | Opening |
+<font color="green">9:00-9:15 | Opening |</font>
 9:15-9:40 | Pieter Abbeel | UC Berkeley, USA
 9:40-10:05 | Kensuke Harada | Osaka Univ., JAPAN
 10:05-10:30 | Tao Wang | Dorabot Inc., CHINA
