@@ -20,7 +20,7 @@ In this workshop, we have a one-hour open talk session. Application is open to b
 Each talk will last ten minutes, including both the talk and Q&A.
 
 ### How to apply
-Please send an email to ____ with title "Application for open talk".
+Please send an email to 'manipulation.workshop@gmail.com' with title "Application for open talk".
 Please include the following information in your email:
 - Title and abstract of your talk;
 - Brief self-introduction. (< 100 words)
