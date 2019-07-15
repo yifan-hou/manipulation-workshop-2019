@@ -26,9 +26,11 @@ Please include the following information in your email:
 - Brief self-introduction. (< 100 words)
 
 Please apply early, as the positions are limited.
+### Important dates
+Applications must be received before the end of October 1st.
 
 ### List of open talks
-A list will be availableon before the workshop.
+A list will be available before the workshop.
 
 
 ## Invited Speakers
