@@ -14,7 +14,7 @@ While highly desired, such contact-rich manipulation comes with its own challeng
 - Locomotion/Self-manipulation considering Contacts and Gravitational Constraints
 
 ## Call for Open Talks
-In this workshop, we have a one-hour open talk session for those who work on related fields. Application is open to both academia and industry.
+In this workshop, we have a one-hour open talk session for those who want to share their work on related fields. Application is open to both academia and industry.
 
 ### Format
 Each speaker will speak for 3\~5 minutes, followed by a 2min Q&A. Instead of using slides, please record a video (3\~5 min) of your slides.
