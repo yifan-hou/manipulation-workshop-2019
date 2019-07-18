@@ -14,10 +14,10 @@ While highly desired, such contact-rich manipulation comes with its own challeng
 - Locomotion/Self-manipulation considering Contacts and Gravitational Constraints
 
 ## Call for Open Talks
-In this workshop, we have a one-hour open talk session. Application is open to both academia and industry. Selected presenters will talk about their work during the open talk session.
+In this workshop, we have a one-hour open talk session for those who work on related fields. Application is open to both academia and industry.
 
 ### Format
-Each talk will last ten minutes, including both the talk and Q&A.
+Each speaker will speak for 3\~5 minutes, followed by a 2min Q&A. Instead of using slides, please record a video (3\~5 min) of your slides.
 
 ### How to apply
 Please send an email to 'manipulation.workshop@gmail.com' with title "Application for open talk".
@@ -26,6 +26,7 @@ Please include the following information in your email:
 - Brief self-introduction. (< 100 words)
 
 Please apply early, as the positions are limited.
+
 ### Important dates
 Applications must be received before October 1st.
 
