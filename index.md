@@ -42,7 +42,6 @@ A list will be available before the workshop.
 **I-Ming Chen**, Nanyang Technological University, [website](https://www.ntu.edu.sg/home/michen/)
 
 
-**Ken Goldberg**, UC Berkeley, [website](https://goldberg.berkeley.edu/)
 
 **Kensuke Harada**, Osaka University, [website](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/)
 
@@ -64,6 +63,8 @@ A list will be available before the workshop.
 
 **Peter Kuan-Ting Yu**, XYZ Robotics Inc., [website](https://www.xyzrobotics.ai/)
 
+**Ruobing Yu**, AI Data Innovations, [website](https://www.aidatainnovations.com/)
+
 ## Program (Tentative)
 
 Time | Speaker | Organization
@@ -80,10 +81,10 @@ Time | Speaker | Organization
 <font color="grey">13:00-14:00 </font> | <font color="grey">Lunch break</font> |
 14:00-14:25 | Sidd Srinivasa | Univ. Washington, USA
 14:25-14:50 | I-Ming Chen | NTU, SINGAPORE
-14:50-15:15 | Oliver Kroemer | CMU, USA
+14:50-15:15 | Ruobing Yu | AI Data Innovations, USA
 15:15-15:40 | Huan Liu | Mujin Inc., JAPAN
 <font color="grey"> 15:40 – 16:10 </font> | <font color="grey">Coffee break</font> |
-16:10-16:35 | Ken Goldberg | UC Berkeley, USA
+16:10-16:35 | Oliver Kroemer | CMU, USA
 16:35-17:00 | Russ Tedrake | MIT/Toyota Research Inst., USA
 17:00-17:25 | Peter Yu | XYZ Robotics Inc., USA
 <font color="green"> 17:25-18:25 </font> | <font color="green">Discussion</font> |
