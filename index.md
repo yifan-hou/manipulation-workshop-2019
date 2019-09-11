@@ -1,6 +1,6 @@
 ## When and where
-Nov. 8th
-Venue: TBD
+* Nov. 8th, 9am ~ 5:30pm
+* Room: LG-R20
 
 ## Introduction
 We are seeing a growing need of dexterity in robotic manipulation beyond grasping. Such dexterity is usually motivated by a creative use of contacts, where these contacts can come from robot hands, arms, or any objects and fixtures in the environment. An intelligent robot can manipulate an object or its own body by exploiting the geometric and force constraints offered through contacts. Such skillful use of contact interactions could  be crucial for realizing dexterous, reactive and robust robotic manipulation as well as mobile legged locomotion (self-manipulation).
@@ -43,9 +43,7 @@ A list will be available before the workshop.
 
 **Pieter Abbeel**, UC Berkeley/Covariant.ai, [website](https://people.eecs.berkeley.edu/~pabbeel/)
 
-**I-Ming Chen**, Nanyang Technological University, [website](https://www.ntu.edu.sg/home/michen/)
-
-
+**Reeve Zheng Hao Chong**, Nanyang Technological University, [website](https://reeve333.wixsite.com/reeve-zhchong)
 
 **Kensuke Harada**, Osaka University, [website](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/)
 
@@ -84,14 +82,13 @@ Time | Speaker | Organization
 <font color="green"> 12:15-13:00 </font> | <font color="green">Open talks</font> | <font color="green">Open for application (10min each)</font>
 <font color="grey">13:00-14:00 </font> | <font color="grey">Lunch break</font> |
 14:00-14:25 | Sidd Srinivasa | Univ. Washington, USA
-14:25-14:50 | I-Ming Chen | NTU, SINGAPORE
-14:50-15:15 | Ruobing Yu | AI Data Innovations, USA
-15:15-15:40 | Huan Liu | Mujin Inc., JAPAN
-<font color="grey"> 15:40 – 16:10 </font> | <font color="grey">Coffee break</font> |
-16:10-16:35 | Oliver Kroemer | CMU, USA
-16:35-17:00 | Russ Tedrake | MIT/Toyota Research Inst., USA
-17:00-17:25 | Peter Yu | XYZ Robotics Inc., USA
-<font color="green"> 17:25-18:25 </font> | <font color="green">Discussion</font> |
+14:25-14:50 | Ruobing Yu | AI Data Innovations, USA
+14:50-15:15 | Huan Liu | Mujin Inc., JAPAN
+<font color="grey"> 15:15 – 15:45 </font> | <font color="grey">Coffee break</font> |
+15:45-16:10 | Reeve Zheng Hao Chong | NTU, SINGAPORE
+16:10-16:35 | Russ Tedrake | MIT/Toyota Research Inst., USA
+16:35-17:00 | Peter Yu | XYZ Robotics Inc., USA
+<font color="green"> 17:00-18:00 </font> | <font color="green">Discussion</font> |
 18:30 | End |
 
 
