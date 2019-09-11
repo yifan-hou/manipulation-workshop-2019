@@ -24,7 +24,7 @@ In this workshop, we have a one-hour open talk session for those who want to sha
 Each speaker will speak for 3\~5 minutes, followed by a 2min Q&A. Instead of using slides, please record a video (3\~5 min) of your slides.
 
 ### How to apply
-Please send an email to 'manipulation.workshop@gmail.com' with title "Application for open talk".
+Please send an email to <a href = "mailto: manipulation.workshop@gmail.com">manipulation.workshop@gmail.com</a> with title *Application for open talk*.
 Please include the following information in your email:
 - Title and abstract of your talk;
 - Brief self-introduction. (< 100 words)
@@ -46,8 +46,6 @@ A list will be available before the workshop.
 **Reeve Zheng Hao Chong**, Nanyang Technological University, [website](https://reeve333.wixsite.com/reeve-zhchong)
 
 **Kensuke Harada**, Osaka University, [website](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/)
-
-**Oliver Kroemer**, Carnegie Mellon University, [website](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/)
 
 **Miao Li**, Wuhan University/Cobot Technology Co., [website](https://miaoli.github.io/)
 
