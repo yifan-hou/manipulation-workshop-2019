@@ -1,11 +1,10 @@
-## When and where
-* Nov. 8th, 9am ~ 5:30pm
-* Room: LG-R20
-
-## Introduction
 We are seeing a growing need of dexterity in robotic manipulation beyond grasping. Such dexterity is usually motivated by a creative use of contacts, where these contacts can come from robot hands, arms, or any objects and fixtures in the environment. An intelligent robot can manipulate an object or its own body by exploiting the geometric and force constraints offered through contacts. Such skillful use of contact interactions could  be crucial for realizing dexterous, reactive and robust robotic manipulation as well as mobile legged locomotion (self-manipulation).
 
 While highly desired, such contact-rich manipulation comes with its own challenges -- from noisy sensors to computationally demanding planning and control frameworks. While the recent research has proposed efficient algorithms and solutions for dexterous and robust manipulation, the industrial applications are seldom seen. This workshop aims to address and hopefully bridge this gap by inviting leading researchers from academia to discuss the recent advances in the field and industry experts to share their experiences and needs from the contact-rich robotic manipulation in industry. We hope this workshop can encourage discussions about possible transfers between the academic results and industrial applications.
+
+## When and where
+* Nov. 8th, 9am ~ 5:30pm
+* Room: LG-R20
 
 ## Topics of interest
 - Non-prehensile Manipulation
@@ -18,7 +17,7 @@ While highly desired, such contact-rich manipulation comes with its own challeng
 - Locomotion/Self-manipulation considering Contacts and Gravitational Constraints
 
 ## Call for Open Talks
-In this workshop, we have a one-hour open talk session for those who want to share their work on related fields. Application is open to both academia and industry.
+In this workshop, we have a one-hour open talk session, everyone can apply for a talk to share their work on related fields. Application is open to both academia and industry.
 
 ### Format
 Each speaker will speak for 3\~5 minutes, followed by a 2min Q&A. Instead of using slides, please record a video (3\~5 min) of your slides.
