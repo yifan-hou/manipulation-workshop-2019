@@ -1,3 +1,5 @@
+![]({{site.url}}/assets/img/teaser.PNG)
+
 We are seeing a growing need of dexterity in robotic manipulation beyond grasping. Such dexterity is usually motivated by a creative use of contacts, where these contacts can come from robot hands, arms, or any objects and fixtures in the environment. An intelligent robot can manipulate an object or its own body by exploiting the geometric and force constraints offered through contacts. Such skillful use of contact interactions could  be crucial for realizing dexterous, reactive and robust robotic manipulation as well as mobile legged locomotion (self-manipulation).
 
 While highly desired, such contact-rich manipulation comes with its own challenges -- from noisy sensors to computationally demanding planning and control frameworks. While the recent research has proposed efficient algorithms and solutions for dexterous and robust manipulation, the industrial applications are seldom seen. This workshop aims to address and hopefully bridge this gap by inviting leading researchers from academia to discuss the recent advances in the field and industry experts to share their experiences and needs from the contact-rich robotic manipulation in industry. We hope this workshop can encourage discussions about possible transfers between the academic results and industrial applications.
@@ -101,3 +103,5 @@ Time | Speaker | Organization
 **Co-organizers**
 - [Nikhil Chavan Dafle](https://nikhilcd.mit.edu/), Ph.D. Candidate, MIT, nikhilcd@mit.edu
 - [François Hogan](https://www.linkedin.com/in/francois-hogan-2b4025b6), Ph.D. Candidate, MIT, fhogan@mit.edu
+
+![]({{site.url}}/assets/img/ending.png)
