@@ -57,7 +57,7 @@ A list will be available before the workshop.
 
 **Siddhartha Srinivasa**, University of Washington, [website](https://goodrobot.ai/)
 
-**Russ Tedrake**, Massachusetts Institute of Technology/Toyota Research Institute, [website](http://groups.csail.mit.edu/locomotion/russt.html)
+**Eric Cousineau**, Toyota Research Institute, [website](https://www.tri.global/)
 
 **Tao Wang**, Dorabot Inc., [website](https://dorabot.com/)
 
@@ -84,7 +84,7 @@ Time | Speaker | Organization
 14:50-15:15 | Huan Liu | Mujin Inc., JAPAN
 <font color="grey"> 15:15 – 15:45 </font> | <font color="grey">Coffee break</font> |
 15:45-16:10 | Reeve Zheng Hao Chong | NTU, SINGAPORE
-16:10-16:35 | Russ Tedrake | MIT/Toyota Research Inst., USA
+16:10-16:35 | Eric Cousineau | Toyota Research Inst., USA
 16:35-17:00 | Peter Yu | XYZ Robotics Inc., USA
 <font color="green"> 17:00-18:00 </font> | <font color="green">Discussion</font> |
 18:30 | End |
