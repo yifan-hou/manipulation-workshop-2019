@@ -19,10 +19,11 @@ While highly desired, such contact-rich manipulation comes with its own challeng
 - Locomotion/Self-manipulation considering Contacts and Gravitational Constraints
 
 ## Call for Open Talks
-In this workshop, we have a one-hour open talk session, everyone can apply for a talk to share their work on related fields. Application is open to both academia and industry.
+In this workshop, we have a one-hour open talk session, everyone can apply for a talk to share their work on related fields. Application is open to both academia and industry. The talk should be around 5 min plus Q&A.
 
-### Format
-Each speaker will speak for 3\~5 minutes, followed by a 2min Q&A. Instead of using slides, please record a video (3\~5 min) of your slides.
+<!-- Each speaker will speak for 3\~5 minutes, followed by a 2min Q&A. Instead of using slides, please record a video (3\~5 min) of your slides. -->
+
+A list of admitted talks will be available before the workshop.
 
 ### How to apply
 Please send an email to <a href = "mailto: manipulation.workshop@gmail.com">manipulation.workshop@gmail.com</a> with title *Application for open talk*.
@@ -34,9 +35,6 @@ Please apply early, as the positions are limited.
 
 ### Important dates
 Applications must be received before October 1st.
-
-### List of open talks
-A list will be available before the workshop.
 
 
 ## Invited Speakers
@@ -68,22 +66,22 @@ A list will be available before the workshop.
 Time | Speaker | Organization
 ------------ | ------------- | -------------
 <font color="grey">9:00-9:15</font> | <font color="grey">Opening</font> |
-9:15-9:40 | Sidd Srinivasa | Univ. Washington, USA
-9:40-10:05 | Eric Cousineau | Toyota Research Inst., USA
-10:05-10:25 | Peter Yu | XYZ Robotics Inc., USA
-10:25-10:45 | Ruobing Yu | AI Data Innovations, USA
-<font color="grey">10:45-11:15 </font> | <font color="grey">Coffee break</font> |
-11:15-11:40 | Alberto Rodriguez | MIT, USA
-11:40-12:00 | Tao Wang | Dorabot Inc., CHINA
-<font color="green"> 12:00-13:00 </font> | <font color="green">Open talks</font> | <font color="green">Open for application</font>
-<font color="grey">13:00-14:35 </font> | <font color="grey">Lunch break</font> |
-14:35-15:00 | Kensuke Harada | Osaka Univ., JAPAN
-15:00-15:25 | Maximo Roa | DLR, GERMANY
-15:25-15:45 | Miao Li | Cobot Inc., CHINA
+9:15-9:45 | Sidd Srinivasa | Univ. Washington, USA
+9:45-10:15 | Eric Cousineau | Toyota Research Inst., USA
+10:15-10:35 | Peter Yu | XYZ Robotics Inc., USA
+<font color="grey">10:35-11:15 </font> | <font color="grey">Coffee break</font> |
+11:15-11:45 | Alberto Rodriguez | MIT, USA
+11:45-12:05 | Tao Wang | Dorabot Inc., CHINA
+<font color="green"> 12:05-13:00 </font> | <font color="green">Open talks</font> | <font color="green">Open for application</font>
+<font color="grey">13:00-14:00 </font> | <font color="grey">Lunch break</font> |
+14:00-14:30 | Kensuke Harada | Osaka Univ., JAPAN
+14:30-15:00 | Maximo Roa | DLR, GERMANY
+15:00-15:20 | Miao Li | Cobot Inc., CHINA
+15:20-15:40 | Ruobing Yu | AI Data Innovations, USA
 <font color="grey"> 15:45-16:15 </font> | <font color="grey">Coffee break</font> |
-16:15-16:40 | Zheng Hao (Reeve) Chong | NTU, SINGAPORE
-16:40-17:00 | Huan Liu | Mujin Inc., JAPAN
-<font color="green"> 17:00-18:00 </font> | <font color="green">Discussion</font> |
+16:15-16:45 | Zheng Hao (Reeve) Chong | NTU, SINGAPORE
+16:45-17:05 | Huan Liu | Mujin Inc., JAPAN
+<font color="green"> 17:05-18:00 </font> | <font color="green">Discussion</font> |
 18:30 | End |
 
 # Organizers
