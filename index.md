@@ -41,9 +41,6 @@ A list will be available before the workshop.
 
 ## Invited Speakers
 (Alphabetical order)
-
-**Pieter Abbeel**, UC Berkeley/Covariant.ai, [website](https://people.eecs.berkeley.edu/~pabbeel/)
-
 **Reeve Zheng Hao Chong**, Nanyang Technological University, [website](https://reeve333.wixsite.com/reeve-zhchong)
 
 **Kensuke Harada**, Osaka University, [website](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/)
@@ -71,26 +68,23 @@ A list will be available before the workshop.
 Time | Speaker | Organization
 ------------ | ------------- | -------------
 <font color="grey">9:00-9:15</font> | <font color="grey">Opening</font> |
-9:15-9:40 | Pieter Abbeel | UC Berkeley, USA
-9:40-10:05 | Kensuke Harada | Osaka Univ., JAPAN
-10:05-10:30 | Tao Wang | Dorabot Inc., CHINA
-<font color="grey">10:30-11:00 </font> | <font color="grey">Coffee break</font> |
-11:00-11:25 | Maximo Roa | DLR, GERMANY
-11:25-11:50 | Alberto Rodriguez | MIT, USA
-11:50-12:15 | Miao Li | Cobot Inc., CHINA
-<font color="green"> 12:15-13:00 </font> | <font color="green">Open talks</font> | <font color="green">Open for application (10min each)</font>
-<font color="grey">13:00-14:00 </font> | <font color="grey">Lunch break</font> |
-14:00-14:25 | Sidd Srinivasa | Univ. Washington, USA
-14:25-14:50 | Ruobing Yu | AI Data Innovations, USA
-14:50-15:15 | Huan Liu | Mujin Inc., JAPAN
-<font color="grey"> 15:15 – 15:45 </font> | <font color="grey">Coffee break</font> |
-15:45-16:10 | Reeve Zheng Hao Chong | NTU, SINGAPORE
-16:10-16:35 | Eric Cousineau | Toyota Research Inst., USA
-16:35-17:00 | Peter Yu | XYZ Robotics Inc., USA
+9:15-9:45 | Sidd Srinivasa | Univ. Washington, USA
+9:45-10:15 | Alberto Rodriguez | MIT, USA
+10:15-10:45 | Eric Cousineau | Toyota Research Inst., USA
+<font color="grey">10:45-11:15 </font> | <font color="grey">Coffee break</font> |
+11:15-11:40 | Peter Yu | XYZ Robotics Inc., USA
+11:40-12:05 | Tao Wang | Dorabot Inc., CHINA
+12:05-12:30 | Ruobing Yu | AI Data Innovations, USA
+<font color="green"> 12:30-13:15 </font> | <font color="green">Open talks</font> | <font color="green">Open for application</font>
+<font color="grey">13:15-14:15 </font> | <font color="grey">Lunch break</font> |
+14:15-14:45 | Kensuke Harada | Osaka Univ., JAPAN
+14:45-15:15 | Maximo Roa | DLR, GERMANY
+15:15-15:45 | Reeve Zheng Hao Chong | NTU, SINGAPORE
+<font color="grey"> 15:45 – 16:15 </font> | <font color="grey">Coffee break</font> |
+16:15-16:40 | Huan Liu | Mujin Inc., JAPAN
+16:40-17:15 | Miao Li | Cobot Inc., CHINA
 <font color="green"> 17:00-18:00 </font> | <font color="green">Discussion</font> |
 18:30 | End |
-
-
 
 # Organizers
 
