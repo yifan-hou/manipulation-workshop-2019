@@ -83,7 +83,7 @@ Time | Speaker | Organization
 <font color="grey"> 15:45 – 16:15 </font> | <font color="grey">Coffee break</font> |
 16:15-16:40 | Huan Liu | Mujin Inc., JAPAN
 16:40-17:15 | Miao Li | Cobot Inc., CHINA
-<font color="green"> 17:00-18:00 </font> | <font color="green">Discussion</font> |
+<font color="green"> 17:15-18:00 </font> | <font color="green">Discussion</font> |
 18:30 | End |
 
 # Organizers
