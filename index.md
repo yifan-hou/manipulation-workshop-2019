@@ -68,22 +68,22 @@ A list will be available before the workshop.
 Time | Speaker | Organization
 ------------ | ------------- | -------------
 <font color="grey">9:00-9:15</font> | <font color="grey">Opening</font> |
-9:15-9:45 | Sidd Srinivasa | Univ. Washington, USA
-9:45-10:15 | Alberto Rodriguez | MIT, USA
-10:15-10:45 | Eric Cousineau | Toyota Research Inst., USA
+9:15-9:40 | Sidd Srinivasa | Univ. Washington, USA
+9:40-10:05 | Eric Cousineau | Toyota Research Inst., USA
+10:05-10:25 | Peter Yu | XYZ Robotics Inc., USA
+10:25-10:45 | Ruobing Yu | AI Data Innovations, USA
 <font color="grey">10:45-11:15 </font> | <font color="grey">Coffee break</font> |
-11:15-11:40 | Peter Yu | XYZ Robotics Inc., USA
-11:40-12:05 | Tao Wang | Dorabot Inc., CHINA
-12:05-12:30 | Ruobing Yu | AI Data Innovations, USA
-<font color="green"> 12:30-13:15 </font> | <font color="green">Open talks</font> | <font color="green">Open for application</font>
-<font color="grey">13:15-14:15 </font> | <font color="grey">Lunch break</font> |
-14:15-14:45 | Kensuke Harada | Osaka Univ., JAPAN
-14:45-15:15 | Maximo Roa | DLR, GERMANY
-15:15-15:45 | Reeve Zheng Hao Chong | NTU, SINGAPORE
-<font color="grey"> 15:45 – 16:15 </font> | <font color="grey">Coffee break</font> |
-16:15-16:40 | Huan Liu | Mujin Inc., JAPAN
-16:40-17:15 | Miao Li | Cobot Inc., CHINA
-<font color="green"> 17:15-18:00 </font> | <font color="green">Discussion</font> |
+11:15-11:40 | Alberto Rodriguez | MIT, USA
+11:40-12:00 | Tao Wang | Dorabot Inc., CHINA
+<font color="green"> 12:00-13:00 </font> | <font color="green">Open talks</font> | <font color="green">Open for application</font>
+<font color="grey">13:00-14:35 </font> | <font color="grey">Lunch break</font> |
+14:35-15:00 | Kensuke Harada | Osaka Univ., JAPAN
+15:00-15:25 | Maximo Roa | DLR, GERMANY
+15:25-15:45 | Miao Li | Cobot Inc., CHINA
+<font color="grey"> 15:45-16:15 </font> | <font color="grey">Coffee break</font> |
+16:15-16:40 | Zheng Hao (Reeve) Chong | NTU, SINGAPORE
+16:40-17:00 | Huan Liu | Mujin Inc., JAPAN
+<font color="green"> 17:00-18:00 </font> | <font color="green">Discussion</font> |
 18:30 | End |
 
 # Organizers
