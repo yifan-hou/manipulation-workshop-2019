@@ -25,7 +25,8 @@ In this workshop, we have a one-hour open talk session, everyone can apply for a
 
 A list of admitted talks will be available before the workshop.
 
-### How to apply
+**How to apply**
+
 Please send an email to <a href = "mailto: manipulation.workshop@gmail.com">manipulation.workshop@gmail.com</a> with title *Application for open talk*.
 Please include the following information in your email:
 - Title and abstract of your talk;
@@ -33,12 +34,13 @@ Please include the following information in your email:
 
 Please apply early, as the positions are limited.
 
-### Important dates
-Applications must be received before October 1st.
+**Important dates**
+Applications must be received before <strike> October 1st </strike> <font color="red">October 6th </font>
 
 
 ## Invited Speakers
 (Alphabetical order)
+
 **Reeve Zheng Hao Chong**, Nanyang Technological University, [website](https://reeve333.wixsite.com/reeve-zhchong)
 
 **Kensuke Harada**, Osaka University, [website](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/)
