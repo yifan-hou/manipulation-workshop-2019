@@ -35,7 +35,8 @@ Please include the following information in your email:
 Please apply early, as the positions are limited.
 
 **Important dates**
-Applications must be received before <strike> October 1st </strike> <font color="red">October 6th </font>
+
+Applications must be received before <strike> October 1st </strike>  <font color="red">October 6th. </font>
 
 
 ## Invited Speakers
