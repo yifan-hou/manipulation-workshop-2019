@@ -35,8 +35,10 @@ Please include the following information in your email:
 Please apply early, as the positions are limited.
 
 **Important dates**
+First round of applications ends at October 6th.
 
-Applications must be received before <strike> October 1st </strike>  <font color="red">October 6th. </font>
+
+For the remaining slots, we will assign them in a first-come, first serve manner. Applications will receive the decisions within five days. All applications must be received before October 25th.
 
 
 ## Invited Speakers
