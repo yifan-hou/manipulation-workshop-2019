@@ -42,7 +42,7 @@ For the remaining slots, we will assign them in a first-come, first serve manner
 ## Invited Speakers
 (All in alphabetical order)
 <div align="center">
-    <font color="grey">**Research Talks (30min each)** </font>
+    <span style="font-weight:bold;font-size:20px">Research Talks (30min each)</span>
 </div>
 
 **Reeve Zheng Hao Chong**, Nanyang Technological University, [website](https://reeve333.wixsite.com/reeve-zhchong)
@@ -59,7 +59,7 @@ For the remaining slots, we will assign them in a first-come, first serve manner
 **Eric Cousineau**, Toyota Research Institute, [website](https://www.tri.global/)
 
 <div align="center">
-    <font color="grey">**Industry Talks (20min each)** </font>
+    <span style="font-weight:bold;font-size:20px">Industry Talks (20min each)</span>
 </div>
 
 **Miao Li**, Wuhan University/Cobot Technology Co., [website](https://miaoli.github.io/)
@@ -73,7 +73,7 @@ For the remaining slots, we will assign them in a first-come, first serve manner
 **Ruobing Yu**, AI Data Innovations, [website](https://www.aidatainnovations.com/)
 
 <div align="center">
-    <font color="grey">**Open Talks (30min each)** </font>
+    <span style="font-weight:bold;font-size:20px">Open Talks (10min each)</span>
 </div>
 
 **Neel Doshi**, MCube Lab, MIT
@@ -93,29 +93,28 @@ For the remaining slots, we will assign them in a first-come, first serve manner
 **Maria Bauza Villalonga**, MCube Lab, MIT
 
 ## Program (Tentative)
-
-<span title="detail">Title</span>
+(Mouse over the title to see abstracts.)
 
 Time | Speaker | Details
 ------------ | ------------- | -------------
 <font color="grey">9:00-9:15</font> | <font color="grey">Opening</font> |
-9:15-9:45 | Sidd Srinivasa, Univ. Washington, USA | <span title="TBD"> TBD </span>
-9:45-10:15 | Eric Cousineau, Toyota Research Inst., USA | <span title="detail">Robust manipulation: Enabling industry-level best practices for academia</span>
-10:15-10:35 | Peter Yu, XYZ Robotics Inc., USA | <span title="detail">Vision and Tooling for Robotic Manipulation</span>
+9:15-9:45 | **Sidd Srinivasa**, Univ. Washington, USA | <span title="TBD"> TBD </span>
+9:45-10:15 | **Eric Cousineau**, Toyota Research Inst., USA | <span title="Toyota Research Institute's goal for robotics is to complement human capabilities in the home. However, quick dexterous manipulation can take a large amount of expert work to get right, even for simple predefined tasks. Add that to fact that homes are typically unstructured and cluttered environments and you find yourself with significant research and engineering challenges. Our team at TRI is tackling these research and engineering challenges with best practices in mind, and we wish to share what we have developed and learned." style="text-decoration: underline">Robust manipulation: Enabling industry-level best practices for academia</span>
+10:15-10:35 | **Peter Yu**, XYZ Robotics Inc., USA | <span title="XYZ Robotics is committed to transforming industrial automation using AI robotics and mechanical intelligence. One of XYZ's primary focuses is piece-picking: moving individual items from one container to another. This labor-intensive process is a vital part of any supply chain. Although the task is easy for human workers, traditional industrial robots fail to navigate the full range of diverse item sizes, weights, and textures, not to mention their random arrangements. XYZ provides turnkey solutions that overcome these challenges with high speed and reliability. These solutions are powered by XYZ’s powerful vision system, which does not require prior training on target items. Furthermore, XYZ’s custom end-of-arm tooling (EOAT) design increases speed and robustness while amplifying the variety of items that can be handled." style="text-decoration: underline">Vision and Tooling for Robotic Manipulation</span>
 10:35-10:55 | Open Talk Session I | Two talks
 <font color="grey">10:55-11:20 </font> | <font color="grey">Coffee break</font> |
-11:20-11:50 | Alberto Rodriguez, MIT, USA | <span title="detail">Certified Grasping</span>
-11:50-12:10 | Tao Wang, Dorabot Inc., CHINA | <span title="detail">Stable grasping in the field of logistics</span>
-12:10-12:30 | Ruobing Yu, AI Data Innovations, USA | <span title="detail">"Decade" Problem for bridging academia to industry</span>
+11:20-11:50 | **Alberto Rodriguez**, MIT, USA | <span title="Can we ever certify that a planned grasp will work? The common approach to grasping is to plan an arrangement of contacts on the surface of an object. Experimental evidence shows an intuitive but also paradoxical observation: On one hand, most grasps do not work as expected since, due to uncertainty, fingers do not deliver exactly the planned arrangement of contacts; on the other hand, many planned grasps still end up working and produce a stable hold of the object. These natural passive dynamics work within all grasping algorithms, often to their benefit, sometimes adversarially. In this project we study the possibility to synthesize grasps for which the fingers have no other option than fall into the right grasp. Understanding the nature of robustness in grasping is essential for automatic grasping solutions to become a reality." style="text-decoration: underline">Certified Grasping</span>
+11:50-12:10 | **Tao Wang**, Dorabot Inc., CHINA | <span title="Recent advances in robotic manipulation has peaked interest in the logistics industry into adopting robot arms for improving efficiency, cost, and service. A fundamental and common requirement of such a solution, is the grasping capability. In the past, suction cups are the industry standard for manufacturing and assembly line robotic solutions in deterministic environments. This is the reason why suction cups are well studied and optimized by researchers and industrial leaders worldwide. The limitations of using suction cups arises when the logistics industry has further requirements, for example, grasping soft packages and envelopes. Therefore, the next step is to further research different hardware and software grasping solutions that provides stable and efficient manipulation in complex and undeterministic environments for a variety of objects in the logistics industry." style="text-decoration: underline">Stable grasping in the field of logistics</span>
+12:10-12:30 | **Ruobing Yu**, AI Data Innovations, USA | <span title="Different goals and different metrics of success (e.g,. publication vs revenue) – Goal: how do we define common goal and metrics for success; Creation of a supportive environment between academia and industry; Solution metrics ( cost, complexity, robustness, availability, scalability, modularity etc. ); Standardization (safety, benchmark, datasets. etc); Maybe: survey results on above criteria from industry; Blueprint for success" style="text-decoration: underline">"Decade" Problem for bridging academia to industry</span>
 12:30-13:00 | Open Talk Session II | Three talks
 <font color="grey">13:00-14:00 </font> | <font color="grey">Lunch break</font> |
-14:00-14:30 | Kensuke Harada, Osaka Univ., JAPAN | <span title="TBD"> TBD </span>
-14:30-15:00 | Maximo Roa, DLR, GERMANY | <span title="TBD"> TBD </span>
-15:00-15:20 | Miao Li, Cobot Inc., CHINA | <span title="TBD"> TBD </span>
+14:00-14:30 | **Kensuke Harada**, Osaka Univ., JAPAN | <span title="TBD"> TBD </span>
+14:30-15:00 | **Maximo Roa**, DLR, GERMANY | <span title="TBD"> TBD </span>
+15:00-15:20 | **Miao Li**, Cobot Inc., CHINA | <span title="TBD"> TBD </span>
 15:20-15:50 | Open Talk Session III | Three talks
 <font color="grey"> 15:50-16:15 </font> | <font color="grey">Coffee break</font> |
-16:15-16:45 | Zheng Hao (Reeve) Chong, NTU, SINGAPORE | <span title="detail">Solution vs Speed: Requirement Disparity Between Research and Deployment</span>
-16:45-17:05 | Huan Liu, Mujin Inc., JAPAN | <span title="detail">Never give up, never surrender!</span>
+16:15-16:45 | **Zheng Hao (Reeve) Chong**, NTU, SINGAPORE | <span title="As demand from emerging economies encourages the deployment of robots to shift from lab proof of concept to practical application, they are likely to assimilate into our living environment. In this presentation, I will present the research development in the lab and the competitions that I participated previously and how these concepts are transformed into the practical application at industry. Several pick and place solutions will be shared in this presentation, which include surgical tools picking, linen picking, multiple items cluster bin picking and picking from the shelf. Robot manipulation task such wall cutting and valve turning will also be discussed. At the same time, I will also show how these technologies being performed in competitions such DARPR Robotics Challenge, Amazon Robotics Challenge 2017 and DHL Robotics Challenge 2017 and how did it turned into practical application at real industry and its challenges. (Requirement disparity between research and deployment)" style="text-decoration: underline">Solution vs Speed: Requirement Disparity Between Research and Deployment</span>
+16:45-17:05 | **Huan Liu**, Mujin Inc., JAPAN | <span title="We will tell a few stories about the challenges we face everyday and our culture. We will explain how the most talented and motivated people work together to push the limits of robotics." style="text-decoration: underline">Never give up, never surrender! What it takes to deploy the latest and greatest robotics technologies in production</span>
 <font color="green"> 17:05-18:00 </font> | <font color="green">Discussion</font> |
 18:30 | End |
 
