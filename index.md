@@ -18,12 +18,8 @@ While highly desired, such contact-rich manipulation comes with its own challeng
 - Whole-body Manipulation
 - Locomotion/Self-manipulation considering Contacts and Gravitational Constraints
 
-## Call for Open Talks
-In this workshop, we have a one-hour open talk session, everyone can apply for a talk to share their work on related fields. Application is open to both academia and industry. The talk should be around 5 min plus Q&A.
-
-<!-- Each speaker will speak for 3\~5 minutes, followed by a 2min Q&A. Instead of using slides, please record a video (3\~5 min) of your slides. -->
-
-A list of admitted talks will be available before the workshop.
+## Open Talk Session
+The workshop has several open talk sessions. The application is open to both academia and industry. Everyone can apply for a talk to share their work on related fields. The talk should be around 5 min plus Q&A.
 
 **How to apply**
 
@@ -35,22 +31,24 @@ Please include the following information in your email:
 Please apply early, as the positions are limited.
 
 **Important dates**
-First round of applications ends at October 6th.
 
+First round of applications ends at October 6th.
 
 For the remaining slots, we will assign them in a first-come, first serve manner. Applications will receive the decisions within five days. All applications must be received before October 25th.
 
+<font color="red"> (Oct.12) The open talk slots are full. The application is now closed. </font>
+
 
 ## Invited Speakers
-(Alphabetical order)
+(All in alphabetical order)
+<div align="center">
+    <font color="grey">**Research Talks (30min each)** </font>
+</div>
 
 **Reeve Zheng Hao Chong**, Nanyang Technological University, [website](https://reeve333.wixsite.com/reeve-zhchong)
 
 **Kensuke Harada**, Osaka University, [website](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/)
 
-**Miao Li**, Wuhan University/Cobot Technology Co., [website](https://miaoli.github.io/)
-
-**Huan Liu**, MUJIN Inc., [website](https://www.mujin.co.jp/en/)
 
 **Maximo Roa**, DLR German Aerospace Center, [website](https://rmc.dlr.de/rm/en/staff/maximo.roa/)
 
@@ -60,32 +58,64 @@ For the remaining slots, we will assign them in a first-come, first serve manner
 
 **Eric Cousineau**, Toyota Research Institute, [website](https://www.tri.global/)
 
+<div align="center">
+    <font color="grey">**Industry Talks (20min each)** </font>
+</div>
+
+**Miao Li**, Wuhan University/Cobot Technology Co., [website](https://miaoli.github.io/)
+
+**Huan Liu**, MUJIN Inc., [website](https://www.mujin.co.jp/en/)
+
 **Tao Wang**, Dorabot Inc., [website](https://dorabot.com/)
 
 **Peter Kuan-Ting Yu**, XYZ Robotics Inc., [website](https://www.xyzrobotics.ai/)
 
 **Ruobing Yu**, AI Data Innovations, [website](https://www.aidatainnovations.com/)
 
+<div align="center">
+    <font color="grey">**Open Talks (30min each)** </font>
+</div>
+
+**Neel Doshi**, MCube Lab, MIT
+
+**Felix von Drigalski**, OMRON SINIC X Corporation
+
+**Werner Friedl**, German Aerospace Center Institute for Robotics and Mechatronics
+
+**Mincheul Kang**, KAIST at Daejeon, Korea
+
+**Jelizaveta(Liza) Konstantinova**, Ocado Technology
+
+**Andrew Melnik**, CITEC, Bielefeld University
+
+**Fan Shi**, JSK Lab, the Univ. of Tokyo
+
+**Maria Bauza Villalonga**, MCube Lab, MIT
+
 ## Program (Tentative)
 
-Time | Speaker | Organization
+<span title="detail">Title</span>
+
+Time | Speaker | Details
 ------------ | ------------- | -------------
 <font color="grey">9:00-9:15</font> | <font color="grey">Opening</font> |
-9:15-9:45 | Sidd Srinivasa | Univ. Washington, USA
-9:45-10:15 | Eric Cousineau | Toyota Research Inst., USA
-10:15-10:35 | Peter Yu | XYZ Robotics Inc., USA
-<font color="grey">10:35-11:15 </font> | <font color="grey">Coffee break</font> |
-11:15-11:45 | Alberto Rodriguez | MIT, USA
-11:45-12:05 | Tao Wang | Dorabot Inc., CHINA
-<font color="green"> 12:05-13:00 </font> | <font color="green">Open talks</font> | <font color="green">Open for application</font>
+9:15-9:45 | Sidd Srinivasa, Univ. Washington, USA | <span title="TBD"> TBD </span>
+9:45-10:15 | Eric Cousineau, Toyota Research Inst., USA | <span title="detail">Robust manipulation: Enabling industry-level best practices for academia</span>
+10:15-10:35 | Peter Yu, XYZ Robotics Inc., USA | <span title="detail">Vision and Tooling for Robotic Manipulation</span>
+10:35-10:55 | Open Talk Session I | Two talks
+<font color="grey">10:55-11:20 </font> | <font color="grey">Coffee break</font> |
+11:20-11:50 | Alberto Rodriguez, MIT, USA | <span title="detail">Certified Grasping</span>
+11:50-12:10 | Tao Wang, Dorabot Inc., CHINA | <span title="detail">Stable grasping in the field of logistics</span>
+12:10-12:30 | Ruobing Yu, AI Data Innovations, USA | <span title="detail">"Decade" Problem for bridging academia to industry</span>
+12:30-13:00 | Open Talk Session II | Three talks
 <font color="grey">13:00-14:00 </font> | <font color="grey">Lunch break</font> |
-14:00-14:30 | Kensuke Harada | Osaka Univ., JAPAN
-14:30-15:00 | Maximo Roa | DLR, GERMANY
-15:00-15:20 | Miao Li | Cobot Inc., CHINA
-15:20-15:40 | Ruobing Yu | AI Data Innovations, USA
-<font color="grey"> 15:45-16:15 </font> | <font color="grey">Coffee break</font> |
-16:15-16:45 | Zheng Hao (Reeve) Chong | NTU, SINGAPORE
-16:45-17:05 | Huan Liu | Mujin Inc., JAPAN
+14:00-14:30 | Kensuke Harada, Osaka Univ., JAPAN | <span title="TBD"> TBD </span>
+14:30-15:00 | Maximo Roa, DLR, GERMANY | <span title="TBD"> TBD </span>
+15:00-15:20 | Miao Li, Cobot Inc., CHINA | <span title="TBD"> TBD </span>
+15:20-15:50 | Open Talk Session III | Three talks
+<font color="grey"> 15:50-16:15 </font> | <font color="grey">Coffee break</font> |
+16:15-16:45 | Zheng Hao (Reeve) Chong, NTU, SINGAPORE | <span title="detail">Solution vs Speed: Requirement Disparity Between Research and Deployment</span>
+16:45-17:05 | Huan Liu, Mujin Inc., JAPAN | <span title="detail">Never give up, never surrender!</span>
 <font color="green"> 17:05-18:00 </font> | <font color="green">Discussion</font> |
 18:30 | End |
 
