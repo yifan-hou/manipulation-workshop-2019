@@ -126,3 +126,6 @@ Time | Speaker | Details
 - [François Hogan](https://www.linkedin.com/in/francois-hogan-2b4025b6), Ph.D. Candidate, MIT, fhogan@mit.edu
 
 ![]({{site.url}}/assets/img/ending.png)
+
+# Photos
+![]({{site.url}}/assets/img/photo_group.jpg)
